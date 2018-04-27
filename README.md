@@ -2,7 +2,7 @@
 Table  
 -
 
-### Now 2 branches:
+### Now 4 branches:
 
 - Master
 - Plugins
