@@ -1,10 +1,3 @@
 # GetUp
-Table  
+This is Lauchers branches
 -
-
-### Now 2 branches:
-
-- Master
-- Plugins
-- Webs
-- Lauchers
