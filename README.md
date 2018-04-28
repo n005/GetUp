@@ -19,3 +19,5 @@ Nouveau projet ?
 3. Crée un projet ("projects")  sous la meme forme que le dossier
 4. Dans projet faire trois column : "A faire"; "En cours"; "Fait" (Avec les preset "To do"; "In progress"; "Done")
 5. Développer !
+
+Note: Commentez vos code !
