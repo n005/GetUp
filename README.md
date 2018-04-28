@@ -9,6 +9,8 @@ Table
 - Webs
 - Lauchers
 
+**Les branches seront merge régulièrement.**
+
 Nouveau projet ?
 -
 
