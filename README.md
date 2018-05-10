@@ -8,6 +8,7 @@ Table
 - Plugins
 - Webs
 - Lauchers
+- Bots
 
 **Les branches seront merge régulièrement.**
 
